@@ -1,0 +1,19 @@
+{
+  "name": "teamcity-app",
+  "version": "1.0",
+  "description": "Test App",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Irdi101/teamcity-app.git"
+  },
+  "author": "Irdi Xhiani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Irdi101/teamcity-app/issues"
+  },
+  "homepage": "https://github.com/Irdi101/teamcity-app#readme"
+}
