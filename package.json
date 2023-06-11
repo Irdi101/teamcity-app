@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Irdi101/teamcity-app/issues"
   },
-  "homepage": "https://github.com/Irdi101/teamcity-app#readme"
+  "homepage": "https://github.com/Irdi101/teamcity-app#readme",
+  "dependencies": {
+    "irdi-test-teamcity": "^1.1.3"
+  }
 }
